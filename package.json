@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "@tonydiethelm/holler",
+  "description": "Holler sits in your express routes and console logs things for you. ",
+  "version": "1.0.4",
+  "main": "holler.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonydiethelm/holler.git"
+  },
+  "keywords": [
+    "Express",
+    "Troubleshooting"
+  ],
+  "author": "Tony Diethelm",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/tonydiethelm/holler/issues"
+  },
+  "homepage": "https://github.com/tonydiethelm/holler#readme"
+}
