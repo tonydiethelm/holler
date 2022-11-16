@@ -29,7 +29,7 @@ npm install @tonydiethelm/holler
 
 Load into your CJS node app...
 
-``
+```
 const holler = require('@tonydiethelm/holler')
 ```
 
