@@ -20,6 +20,8 @@ Now you can trace request.body, etc, as it moves through all your middleware, wi
 
 Holler is written in Javascript and uses CommonJS import/export for easy use in Node.js. 
 
-## Written by Tony Diethelm
-[github](https://github.com/tonydiethelm)
-[linked](https://www.linkedin.com/in/tonydiethelm)
+## Install
+Install from npm with ```npm install @tonydiethelm/holler```.
+Load into your CJS node app  with ```const holler = require('@tonydiethelm/holler')```.
+
+## Written by Tony Diethelm | [github](https://github.com/tonydiethelm) | [linked](https://www.linkedin.com/in/tonydiethelm)

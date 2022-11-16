@@ -4,7 +4,7 @@
   },
   "name": "@tonydiethelm/holler",
   "description": "Holler sits in your express routes and console logs things for you. ",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "holler.js",
   "devDependencies": {},
   "scripts": {
