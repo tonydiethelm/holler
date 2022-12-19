@@ -7,7 +7,7 @@ You can place this in your express routes, then comment them out when you don't 
 
 const holler = (request, response, next) => {
   
-  console.log('\n \nHoller!');
+  console.log(`\n \nHoller! going through ${request.path}`);
   
   //request.body
   if(request.hasOwnProperty('body')){
@@ -44,7 +44,7 @@ const holler = (request, response, next) => {
     console.log('There is no response.body');
   }
 
-  console.log('\n\nEnd Holler')
+  console.log('End Holler\n\n')
   return next();
 }
 
